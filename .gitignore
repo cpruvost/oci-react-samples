@@ -19,3 +19,5 @@ buildNumber.properties
 src/main/resources/application_local.properties
 .DS_Store
 settings.json
+.settings
+application-dev.properties
